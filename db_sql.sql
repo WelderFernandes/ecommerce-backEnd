@@ -1,0 +1,3 @@
+-- CREATE DATABASE adonis_ecommerce
+-- DEFAULT CHARACTER SET utf8
+-- DEFAULT COLLATE utf8_general_ci;
