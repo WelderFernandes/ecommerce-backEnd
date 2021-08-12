@@ -230,6 +230,11 @@ adonis-acl@^1.1.1:
     lodash "^4.17.4"
     node-exceptions "^2.0.2"
 
+adonis-bumblebee@^2.1.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/adonis-bumblebee/-/adonis-bumblebee-2.2.0.tgz#d959a973806df17efe3257c76b54f15f3477d9ed"
+  integrity sha512-NqwPBPIXmAlpOGZizvkwrtVzFXBoCWvfDFj1TE/NfyTFxRiCsYY6tTyBtyBz/Y4n2cYPTisg/x+ksZwZorzNvw==
+
 ansi-bgblack@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/ansi-bgblack/-/ansi-bgblack-0.1.1.tgz#a68ba5007887701b6aafbe3fa0dadfdfa8ee3ca2"
@@ -2284,9 +2289,9 @@ path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-root-regex@^0.1.0:
   version "0.1.2"
